@@ -1,3 +1,1 @@
-# Only used by the one-click installer.
-# Example:
-# --listen --api
+--api --nowebui --api-port 8000
